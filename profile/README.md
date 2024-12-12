@@ -1,12 +1,13 @@
-## Hi there 👋
+Flash USDT transaction is a software designed to enable you send fake USDT from blockchain network (Coinbase, Binance, Blockchain, etc.) for free. Flash USDT transaction (core network) is a software designed to enable you send fake USDT from any wallet address to another
 
-<!--
+Dowload: https://github.com/VCamPro/Flash-USDT
 
-**Here are some ideas to get you started:**
+Instructions for use: https://telegra.ph/Instructions-for-use-12-11
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+FLASH USDT SENDER PRO: https://telegra.ph/FLASH-USDT-SENDER-PRO-12-11
+
+FLASH USDT TOOL FOR TRANSFER TO PLATFORMS: https://telegra.ph/FLASH-USDT-TOOL-FOR-TRANSFER-TO-PLATFORMS-12-11
+
+
+https://github.com/user-attachments/assets/46c9af72-f062-4244-a6b9-131100573df2
+
